@@ -1,6 +1,12 @@
 class Hello{
+    void mehod()
+    {
+        System.out.println("Call);
+    }
 public static void main(String[] args)
 {
 System.out.println("Hello World");
+Hello hl=new Hello();
+hl.mehod();
 }
 }
