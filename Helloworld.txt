@@ -10,3 +10,6 @@ Hello hl=new Hello();
 hl.mehod();
 }
 }
+
+Output:
+Call
